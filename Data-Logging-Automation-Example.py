@@ -179,6 +179,6 @@ class Kayıt:
 
 
 
-Sistem=Kayıt("Anlaşılır Ekonomi")
+Sistem=Kayıt("Ali")
 while Sistem.dongu:
     Sistem.program()
